@@ -17,9 +17,9 @@
 </ul>
 <p>
 <h1><a href="https://blaze8834.github.io/games.md">Games</a></h1>
-<h3> Also, check out my friends Jroo3121 and Neildaniel100's websites:</h3>
-<h2><a href="https://jroo3121.github.io/">Jroo3121's Website</a></h2>
-<h2><a href="https://neildaniel00.github.io/">Neildaniel100's Website</a></h2>
+<h2> Also, check out my friends Jroo3121 and Neildaniel100's websites:</h2>
+<h3><a href="https://jroo3121.github.io/">Jroo3121's Website</a></h3>
+<h3><a href="https://neildaniel00.github.io/">Neildaniel100's Website</a></h3>
   
 <script>
   var person = prompt("Please enter your name", "A Blaze_ fan");
