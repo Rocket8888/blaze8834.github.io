@@ -16,7 +16,7 @@
   <li>Scratch</li>
 </ul>
 <p>
-  <a href=https://blaze8834.github.io/games.html>Games</a> 
+<h1><a href=https://blaze8834.github.io/games.html>Games</a></h1> 
   
 <script>
   var person = prompt("Please enter your name", "Not Blaze_");
