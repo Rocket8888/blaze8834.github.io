@@ -22,7 +22,7 @@
 <h3><a href="https://neildaniel00.github.io/">Neildaniel100's Website</a></h3>
   
 <script>
-  var person = prompt("Please enter your name", "A Blaze_ fan");
+  var person = prompt("Please enter your username (Remember, for internet safety, don't enter your real name!)", "A Blaze_ fan");
 
 if (person != null) {
   document.getElementById("wlc").innerHTML =
