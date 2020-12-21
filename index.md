@@ -15,6 +15,8 @@
   <li>C++</li>
   <li>Scratch</li>
 </ul>
+<p>
+  <a> href=https://blaze8834.github.io/games.html>Games</a> 
   
 <script>
   var person = prompt("Please enter your name", "Not Blaze_");
