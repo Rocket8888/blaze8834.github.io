@@ -20,6 +20,8 @@
 <h2> Also, check out my friends Jroo3121 and Neildaniel100's websites:</h2>
 <h3><a href="https://jroo3121.github.io/">Jroo3121's Website</a></h3>
 <h3><a href="https://neildaniel00.github.io/">Neildaniel100's Website</a></h3>
+
+<h6>Support: DM Shredder_#2253 on Discord </h6>
   
 <script>
   var person = prompt("Please enter your username (Remember, for internet safety, don't enter your real name!)", "A Blaze_ fan");
