@@ -10,7 +10,7 @@
    Most people know me as Shredder_ or Blaze_, this is my website! Some of my hobbies are coding, playing video games, and chatting with friends on discord. I can code in a few languages, such as:</center>
    <ul>
   <li>Java</li>
-  <li>javaScript</li>
+  <li>JavaScript</li>
   <li>C#</li>
   <li>C++</li>
   <li>Scratch</li>
@@ -18,11 +18,11 @@
 <p>
 <h1><a href="https://blaze8834.github.io/games.md">Games</a></h1>
 <h3> Also, check out my friends Jroo3121 and Neildaniel100's websites:</h3>
-<h2><a href="https://jroo3121.github.io/">Jroo3121's website</a></h2>
-<h2><a href="https://neildaniel100.github.io/">Neildaniel100's website</a></h2>
+<h2><a href="https://jroo3121.github.io/">Jroo3121's Website</a></h2>
+<h2><a href="https://neildaniel100.github.io/">Neildaniel100's Website</a></h2>
   
 <script>
-  var person = prompt("Please enter your name", "A Blaze_ Fan");
+  var person = prompt("Please enter your name", "A Blaze_ fan");
 
 if (person != null) {
   document.getElementById("wlc").innerHTML =
