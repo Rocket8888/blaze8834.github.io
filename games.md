@@ -6,7 +6,7 @@
   <h1><a href="https://blaze8834.github.io/games/Ultra Clicker.html">Ultra Clicker</a></h1>
   <button onclick="ucins()">Ultra Clicker Instructions</button>
   <button onclick="pcins()">Pen Circles Instructions</button>
-</body>
+
 <style>
   #a {
     background-color: black;
