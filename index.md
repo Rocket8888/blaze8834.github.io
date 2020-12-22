@@ -21,7 +21,7 @@
 <h3><a href="https://jroo3121.github.io/">Jroo3121's Website</a></h3>
 <h3><a href="https://neildaniel00.github.io/">Neildaniel100's Website</a></h3>
 
-<h4>Support: Join my discord at: https://discord.gg/xa5WGCPmtz</h4>
+<h4>Support and fun with the community: Join my discord at: <a href="https://discord.gg/xa5WGCPmtz">Discord Support Server</a></h4>
 <h5> This is a solo project, I am working as hard as I can. Request changes in the support channel as well as problems you have. Enjoy! </h5>
 
   
