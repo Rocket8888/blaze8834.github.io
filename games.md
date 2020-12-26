@@ -4,8 +4,10 @@
   <h1><a href="https://blaze8834.github.io">Home</a></h1>
   <h1><a href="https://blaze8834.github.io/games/Pen Circles.html">Pen Circles</a></h1>
   <h1><a href="https://blaze8834.github.io/games/Ultra Clicker.html">Ultra Clicker</a></h1>
+  <h1><a href="https://blaze8834.github.io/games/basic.py">Me Failing At Python</a></h1>
   <button onclick="ucins()">Ultra Clicker Instructions</button>
   <button onclick="pcins()">Pen Circles Instructions</button>
+  <button onclick="pyins()">Python Fail Instructions</button>
 
 <style>
   #a {
@@ -19,5 +21,8 @@
   }
   function pcins(){
   alert("Enter a number, sit back, and enjoy the show! Also, press b to get the pointer to follow you, and press a to stop it from following you");
+  }
+  function pyins(){
+  alert("Type yes or no, and enjoy the extremely basic programming!");
   }
 </script>
