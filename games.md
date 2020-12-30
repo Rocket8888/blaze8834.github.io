@@ -19,7 +19,7 @@
 </style>
 <script>
   function ucins(){
-    alert("UltraClicker is a clicker game where you get extremely rich from upgrading your places. Press 9 to get text-to-speech saying your current balance, and press space every once in a while to upgrade your rank. Enjoy!"); 
+    alert("UltraClicker is a clicker game where you get extremely rich from upgrading your places. Press 9 to get text-to-speech saying your current balance, and press space every once in a while to upgrade your rank. Enjoy! A list of ranks can be found here: https://blaze8834.github.io/games/ucranks.html"); 
   }
   function pcins(){
   alert("Enter a number, sit back, and enjoy the show! Also, press b to get the pointer to follow you, and press a to stop it from following you");
