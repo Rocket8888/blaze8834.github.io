@@ -5,9 +5,11 @@
   <h1><a href="https://blaze8834.github.io/games/Pen Circles.html">Pen Circles</a></h1>
   <h1><a href="https://blaze8834.github.io/games/Ultra Clicker.html">Ultra Clicker</a></h1>
   <h1><a href="https://blaze8834.github.io/games/basic.py">Me Failing At Python</a></h1>
+  <h1><a href="https://bit.ly/3pFG99p">???</a></h1>
   <button onclick="ucins()">Ultra Clicker Instructions</button>
   <button onclick="pcins()">Pen Circles Instructions</button>
   <button onclick="pyins()">Python Fail Instructions</button>
+  <button onclick="nullins()">??? Instructions</button>
 
 <style>
   #a {
@@ -24,5 +26,8 @@
   }
   function pyins(){
   alert("Type yes or no, and enjoy the extremely basic programming!");
+  }
+  function nullins(){
+  alert("Click the link or do not click it... If you click it, some dangers might be awaiting you... But if you never click it, you will always wonder what would've happened....");
   }
 </script>
